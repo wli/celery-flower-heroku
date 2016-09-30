@@ -16,6 +16,18 @@
     "FLOWER_EMAIL_DOMAIN": {
       "description": "Enables Google OpenID auth. You need to your domain to a regex like: .*@example\\.com$",
       "value": ""
+    },
+    "FLOWER_OAUTH2_KEY": {
+      "description": "oauth2 key",
+      "value": ""
+    },
+    "FLOWER_OAUTH2_SECRET": {
+      "description": "oauth2 secret",
+      "value": ""
+    },
+    "FLOWER_OAUTH2_REDIRECT_URI": {
+      "description": "oauth2 redirect uri. should end with /login",
+      "value": ""
     }
   }
 }
