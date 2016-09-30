@@ -8,4 +8,5 @@ certifi==2016.9.26
 flower==0.9.1
 kombu==3.0.35
 pytz==2016.6.1
+redis==2.10.5
 tornado==4.2
