@@ -1,0 +1,21 @@
+{
+  "name": "Flower",
+  "description": "Flower is a web tool for monitoring Celery.",
+  "keywords": [
+    "celery",
+    "flower",
+    "monitor"
+  ],
+  "website": "https://github.com/wli/celery-flower-heroku",
+  "repository": "https://github.com/wli/celery-flower-heroku",
+  "env": {
+    "BROKER_URL": {
+      "description": "Default broker URL.",
+      "value": ""
+    },
+    "FLOWER_EMAIL_DOMAIN": {
+      "description": "Enables Google OpenID auth. You need to your domain to a regex like: .*@example\\.com$",
+      "value": ""
+    }
+  }
+}
