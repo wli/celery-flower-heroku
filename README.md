@@ -1,3 +1,9 @@
+## Archived
+
+This project is unmaintained and in archived read-only mode.
+
+## Instructions
+
 Deploy [Flower](https://github.com/mher/flower/) to Heroku to monitor [Celery](http://www.celeryproject.org/).
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
